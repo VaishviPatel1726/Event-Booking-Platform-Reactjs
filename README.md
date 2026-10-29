@@ -10,13 +10,6 @@ React + Redux Toolkit + React Router + Axios + json-server + Bootstrap (plain di
 
 Dono commands alag-alag terminal me chalao.
 
-## Demo login
-
-| Role      | Email               | Password |
-|-----------|---------------------|----------|
-| Organizer | organizer@gmail.com | 123456   |
-| Customer  | user@gmail.com      | 123456   |
-
 ## Folder structure
 
 - db.json            -> users, events, bookings (json-server database)
