@@ -1,6 +1,6 @@
-# 🎟️ Event Booking Platform
+# Event Booking Platform
 
-## 📌 About The Project
+## About The Project
 
 The **Event Booking Platform** is a web application developed using React JS that allows users to discover events, explore event details, and book tickets online.
 
@@ -8,9 +8,9 @@ The main goal of this project is to make event discovery and ticket booking simp
 
 This project is inspired by the event discovery and booking experience of BookMyShow.
 
-## ✨ Features
+## Features
 
-### 👤 Customer Features
+### Customer Features
 - User Registration and Login
 - Browse All Events
 - Search Events
@@ -21,14 +21,14 @@ This project is inspired by the event discovery and booking experience of BookMy
 - Cancel Bookings
 - Logout
 
-### 🛠️ Organizer Features
+### Organizer Features
 - Create New Events
 - Edit Existing Events
 - Delete Events
 - View Event Bookings
 - Manage Available Seats
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 
 - **Frontend:** React JS
 - **Routing:** React Router DOM
@@ -40,7 +40,7 @@ This project is inspired by the event discovery and booking experience of BookMy
 - **React Features:** Hooks, Components, Props and State
 - **Development Tool:** Vite
 
-## 📂 Project Modules
+## Project Modules
 
 ### 1. User Authentication
 Allows customers to register, log in, and access the platform.
@@ -57,7 +57,7 @@ Users can select the number of tickets and book events according to seat availab
 ### 5. Booking History
 Users can view their previous bookings and cancel eligible bookings.
 
-## 🗃️ Data Structure
+## Data Structure
 
 The application uses the following collections in `db.json`:
 
@@ -65,7 +65,7 @@ The application uses the following collections in `db.json`:
 - **events** — stores event details and seat availability.
 - **bookings** — stores ticket booking information.
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 ### Step 1: Clone the Repository
 
@@ -103,7 +103,7 @@ npm run dev
 
 Open the local URL displayed in the terminal to view the application.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - To develop a responsive event booking web application.
 - To understand React components, hooks, and routing.
@@ -112,7 +112,7 @@ Open the local URL displayed in the terminal to view the application.
 - To manage event and booking data using JSON Server.
 - To practice CRUD operations and real-world application workflows.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Online Payment Integration
 - Email Booking Confirmation
@@ -120,7 +120,7 @@ Open the local URL displayed in the terminal to view the application.
 - Improved Organizer Dashboard
 - Advanced Event Recommendations
 
-## 👩‍💻 Developer
+## Developer
 
 Developed as a React JS learning project to practice frontend development, routing, state management, API integration, and CRUD operations.
 
@@ -133,3 +133,8 @@ Email : vaishvi123@gamil.com
 Password: 123456
 
 Change the password after your demo/project review.
+
+
+video link = https://drive.google.com/file/d/1KJPblxArcctOL_hxLzryPPVjfjYATYpL/view?usp=sharing
+
+
