@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "name": "vaishvi patel",
+      "email": "vaishvi123@gamil.com",
+      "password": "123456",
+      "role": "organizer",
+      "id": 1
+    },
+    {
+      "name": "smit patel",
+      "email": "smit123@gamil.com",
+      "password": "123456",
+      "role": "customer",
+      "id": 2
+    },
+    {
+      "name": "Keyur",
+      "email": "k@gmail.com",
+      "password": "Keyur@123",
+      "role": "customer",
+      "id": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Arijit Singh Live Concert",
+      "description": "An evening full of romantic and soulful Bollywood songs by Arijit Singh with a live band.",
+      "location": "EKA Arena, Ahmedabad",
+      "date": "2026-11-15",
+      "time": "19:00",
+      "category": "Music",
+      "price": 1500,
+      "totalSeats": 200,
+      "availableSeats": 197,
+      "createdBy": 1,
+      "id": 1
+    },
+    {
+      "title": "Stand-Up Comedy Night",
+      "description": "Top stand-up comedians performing their new sets. Come and laugh out loud with your friends.",
+      "location": "Rangsharda Auditorium, Mumbai",
+      "date": "2026-10-20",
+      "time": "20:00",
+      "category": "Comedy",
+      "price": 599,
+      "totalSeats": 100,
+      "availableSeats": 100,
+      "createdBy": 1,
+      "id": 2
+    },
+    {
+      "title": "IPL Fan Meetup Cricket Match",
+      "description": "Friendly 20-20 cricket tournament and fan meetup with food stalls and prizes.",
+      "location": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2026-12-05",
+      "time": "16:00",
+      "category": "Sports",
+      "price": 800,
+      "totalSeats": 500,
+      "availableSeats": 500,
+      "createdBy": 1,
+      "id": 3
+    },
+    {
+      "title": "React JS Full Day Workshop",
+      "description": "Hands-on workshop on React, Redux Toolkit and React Router. Laptop required.",
+      "location": "Red & White Skill Education, Surat",
+      "date": "2026-10-12",
+      "time": "10:00",
+      "category": "Workshop",
+      "price": 299,
+      "totalSeats": 60,
+      "availableSeats": 60,
+      "createdBy": 1,
+      "id": 4
+    },
+    {
+      "title": "Tech Summit 2026",
+      "description": "Talks on AI, cloud and web development by industry experts, plus networking session.",
+      "location": "Vesu Convention Hall, Surat",
+      "date": "2026-11-28",
+      "time": "09:30",
+      "category": "Technology",
+      "price": 999,
+      "totalSeats": 300,
+      "availableSeats": 300,
+      "createdBy": 1,
+      "id": 5
+    },
+    {
+      "title": "Kabir Play - Live Theatre",
+      "description": "A Gujarati stage play based on the life and dohas of Kabir. Family friendly show.",
+      "location": "Sardar Patel Auditorium, Vadodara",
+      "date": "2026-10-30",
+      "time": "18:30",
+      "category": "Theatre",
+      "price": 350,
+      "totalSeats": 150,
+      "availableSeats": 150,
+      "createdBy": 1,
+      "id": 6
+    },
+    {
+      "title": "Neha kakkar",
+      "description": "Neha Kakkar is a famous Indian playback singer known for her high-energy party tracks and emotional ballads",
+      "location": "Surat ,VIP Road",
+      "date": "2026-10-08",
+      "time": "20:00",
+      "category": "Music",
+      "price": 500,
+      "totalSeats": 200,
+      "availableSeats": 198,
+      "createdBy": 1,
+      "id": 7
+    },
+    {
+      "title": "Kapil Sharma Show",
+      "description": "The The Kapil Sharma Show is a popular Hindi-language sketch comedy and celebrity talk show hosted by comedian Kapil Sharma.",
+      "location": "Hyderabad",
+      "date": "2026-10-10",
+      "time": "20:15",
+      "category": "Comedy",
+      "price": 550,
+      "totalSeats": 150,
+      "availableSeats": 150,
+      "createdBy": 1,
+      "id": 8
+    }
+  ],
+  "bookings": [
+    {
+      "userId": 2,
+      "eventId": 7,
+      "numberOfTickets": 2,
+      "totalAmount": 1000,
+      "status": "confirmed",
+      "bookingDate": "2026-09-29T08:29:22.457Z",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "eventId": 1,
+      "numberOfTickets": 1,
+      "totalAmount": 1500,
+      "status": "confirmed",
+      "bookingDate": "2026-10-08T10:57:53.010Z",
+      "id": 2
+    }
+  ]
+}
