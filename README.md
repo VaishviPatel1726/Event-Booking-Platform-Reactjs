@@ -128,5 +128,7 @@ Developed as a React JS learning project to practice frontend development, routi
 
 Default Admin
 Email : vaishvi123@gamil.com
+
 Password: 123456
+
 Change the password after your demo/project review.
