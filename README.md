@@ -126,23 +126,7 @@ Developed as a React JS learning project to practice frontend development, routi
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!
-
-
-
-
-## Run karne ke steps
-
-    npm install
-    npm run server    (json-server -> http://localhost:5000)
-    npm run dev       (React app -> http://localhost:5173)
-
-Dono commands alag-alag terminal me chalao.
-
-## Folder structure
-
-- db.json            -> users, events, bookings (json-server database)
-- src/api            -> axios instance (baseURL http://localhost:5000)
-- src/redux          -> store + auth / events / bookings slices (reducers + async thunks)
-- src/components     -> Navbar, EventCard, ProtectedRoute
-- src/pages          -> all pages (Home, Login, Register, EventDetails, MyBookings, Organizer pages)
+Default Admin
+Email : vaishvi123@gamil.com
+Password: 123456
+Change the password after your demo/project review.
